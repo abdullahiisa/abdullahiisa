@@ -1,6 +1,6 @@
 # Hi, I’m Abdullahi 👋🏽
 
-I am a dedicated **Computer Scientist** with strong interests in artificial intelligence and cyber security. I focus on building efficient, high-performance solutions and understanding systems from the hardware level up to modern application design.
+I am a passionate **Computer Scientist** with strong interests in artificial intelligence and cyber security. I focus on building efficient, high-performance solutions and understanding systems from the hardware level up to modern application design.
 
 ## 🔧 Core Focus Areas
 - **Artificial Intelligence** – Applying machine learning and deep learning to solve real-world problems.
